@@ -17,7 +17,7 @@ The model is enhanced with **Chaos Theory (Chebyshev/Sinusoidal maps)** and **Le
 
 ## 📂 Repository Content
 
-* [BTO_Algorithm.py](./BTO_Algorithm.py): Full implementation of the algorithm in Python.
+* [BTO_Algorithm.py](./BTO_Python_Algorithm.py): Full implementation of the algorithm in Python.
 * [BTO_Report.pdf](./BTO_Report.pdf): Detailed academic paper including mathematical models and literature review.
 * [BTO_Presentation.pdf](./BTO_Presentation.pdf): A comprehensive slide deck explaining the theory and results.
 * [BTO_Sample_Solution.pdf](./BTO_Sample_Solution.pdf): Step-by-step manual calculation of a sample optimization problem.
