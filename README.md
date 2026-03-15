@@ -1,6 +1,6 @@
 # 🌀 Bermuda Triangle Optimizer (BTO) Implementation
 
-A physics-based metaheuristic optimization algorithm inspired by the mysterious gravitational forces of the Bermuda Triangle. This project was developed for the **Optimization** course at Sivas Cumhuriyet University (May 2025).
+A physics-based metaheuristic optimization algorithm inspired by the mysterious gravitational forces of the Bermuda Triangle. This project was developed for the **Optimization** course at Sivas Cumhuriyet University (January 2025).
 
 > **⭐ Achievement:** This project was awarded a **100/100 grade**, achieving the highest performance in the class.
 
